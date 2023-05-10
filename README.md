@@ -2,7 +2,7 @@
  - ###### An OpenCV project 
  <br>
  
- [![LICENCE.md](https://img.shields.io/github/license/PrudhviGNV/py-automl)](https://github.com/PrudhviGNV/py-automl/blob/master/LICENCE.md)[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/PadalaBalaSivaSaiMegiReddy)<br>
+ [![LICENCE.md](https://img.shields.io/github/license/PrudhviGNV/py-automl)]([https://github.com/PrudhviGNV/py-automl/blob/master/LICENCE.md](https://github.com/PadalaBalaSivaSaiMegiReddy/Face_recognition_based_attendance_system-master))[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/PadalaBalaSivaSaiMegiReddy)<br>
  
  ## Overview :
  The idea of this project is to automate the manual work of taking attendance using face recognition techology. We can implement face recognition algorithms with ease using OpenCV. 
@@ -215,7 +215,7 @@ Although EigenFaces, FisherFaces and LBPH face recognizers are good but there ar
 ----------
 ## Licence:
 [MIT](
-https://github.com/Kaleemabdul/Face-Recognition-Based-Attendance-System-master/blob/master/LICENSE)
+[https://github.com/PadalaBalaSivaSaiMegiReddy/Face_recognition_based_attendance_system-master])
 
 --------
 ## Contact:
